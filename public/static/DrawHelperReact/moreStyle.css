@@ -1,0 +1,29 @@
+        #map {
+            position: absolute;
+            top: 0px;
+            left: 0;
+            height: 100%;
+            width: 100%;
+            margin: 0;
+            overflow: hidden;
+            padding: 0;
+            font-family: sans-serif;
+        }
+        #toolbar {
+            position: absolute;
+            top: 0px;
+            left: 0;
+            display: inline;
+            margin: 10px;
+            padding: 0px;
+            background: white;
+        }
+        #logging {
+            position: absolute;
+            bottom: 0px;
+            right: 0;
+            display: inline;
+            margin: 10px;
+            padding: 10px;
+            background: white;
+        }

@@ -1,0 +1,7 @@
+.mousestate {
+    position:absolute;
+    z-index:9999;
+    top:10px;
+    left:266px;
+    background-color:white
+}

@@ -1,0 +1,11 @@
+.flyTools {
+    position: absolute;
+    top: 20px;
+    left: 266px;
+    background:'#ffffff';
+    z-index: 888
+}
+
+.btn {
+    margin-left:10px;
+}
